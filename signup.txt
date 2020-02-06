@@ -1,0 +1,2 @@
+Hi! 
+Enter user name and password to register.
